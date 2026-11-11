@@ -1,0 +1,12 @@
+/.vscode/
+/.idea/
+/work/
+/settings/
+Thumbs.db
+.DS_Store
+*.tmp
+*.key
+deepseek-api-key.txt
+deepseektranslate-cache/
+*.sqlite3
+*.sdr/
